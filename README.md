@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Designer & Developer
+#Software Designer & Developer
 
 Ask me about Python , Java ,Html ,CSS ,Javascript ,C and C++
 
