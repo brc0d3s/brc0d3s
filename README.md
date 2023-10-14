@@ -2,7 +2,7 @@
 
 # 📊 Tech :Software Designer & Developer
 
-Ask me about Python , Java ,Html ,CSS ,Javascript ,C and C++
+Ask me about Python ,Javascript , Java , Html , CSS , C and C++
 
 
 ## 🌐 Socials:
