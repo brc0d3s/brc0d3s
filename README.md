@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-# 📊 Tech :Software Designer & Developer
+# 📊 Tech :Software Engineer
 
 Ask me about Python , Javascript , Java , Html , CSS , C and C++
 
