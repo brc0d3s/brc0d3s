@@ -1,4 +1,4 @@
-👋 Hello, I'm [Brian (brc0d3s)]! Full-stack Developer | Django | React.js | MongoDB | Firebase | Docker | AWS.
+👋 Hello, I'm [Brian (brc0d3s)]! Full-stack Developer | Django | React.js | Postgresql | MongoDB | Firebase | Docker | AWS.
 
 👨‍💻 Crafting seamless web experiences with clean code. Specializing in RESTful APIs, real-time data sync, and serverless architecture.
 
