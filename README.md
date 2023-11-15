@@ -14,9 +14,9 @@
 
 📫 Let's connect! Feel free to reach out for collaboration, questions, or just to chat about tech. My virtual door is always open!
 
-📧 Email: [brc0d3s@gmail.com](mailto:brc0d3s@gmail.com)
-🔗 LinkedIn: [Connect with Me](https://www.linkedin.com/in/br-codes-13a5b9257/)
-💻 LeetCode: [Solve Problems with Me](https://leetcode.com/brc0d3s/)
-🛠️ Stack Overflow: [Check My Profile](https://stackoverflow.com/users/20752329/brc0d3s)
-📸 Instagram: [@br_codes](https://www.instagram.com/br_codes/)
-📱 WhatsApp: [Chat with Me](https://whatsapp.com/dl/code=tMar2W7eDC)
+- 📧 Email: [brc0d3s@gmail.com](mailto:brc0d3s@gmail.com)
+- 🔗 LinkedIn: [Connect with Me](https://www.linkedin.com/in/br-codes-13a5b9257/)
+- 💻 LeetCode: [Solve Problems with Me](https://leetcode.com/brc0d3s/)
+- 🛠️ Stack Overflow: [Check My Profile](https://stackoverflow.com/users/20752329/brc0d3s)
+- 📸 Instagram: [@br_codes](https://www.instagram.com/br_codes/)
+- 📱 WhatsApp: [Chat with Me](https://whatsapp.com/dl/code=tMar2W7eDC)
