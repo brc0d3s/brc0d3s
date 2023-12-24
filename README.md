@@ -1,9 +1,22 @@
-👋 Hello, I'm [Brian Omondi (brc0d3s)]! Software Engineer | Django | React.js | Postgresql | MongoDB | Firebase | Docker | AWS.
+# 👋 Hello, I'm Brian Omondi (brc0d3s)!
 
-👨‍💻 Crafting seamless web experiences with clean code. Specializing in RESTful APIs, real-time data sync, and serverless architecture.
+## About Me
+I'm a Software Engineer specializing in Django, React.js, Postgresql, MongoDB, Firebase, Docker, and AWS. I focus on crafting seamless web experiences with clean code, specializing in RESTful APIs, real-time data sync, and serverless architecture.
 
-☁️ AWS enthusiast, deploying on Netlify and Railway. Let's connect! 🚀
+## Skills
+- **Languages:** Python, JavaScript
+- **Frameworks:** Django, React.js
+- **Databases:** Postgresql, MongoDB, Firebase
+- **Tools:** Docker
+- **Cloud:** AWS
 
+## GitHub Stats
+![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brc0d3s&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brc0d3s&layout=compact&theme=radical)
+
+## Connect with Me
 - 📧 Email: [brc0d3s@gmail.com](mailto:brc0d3s@gmail.com)
 - 🔗 LinkedIn: [Connect](https://www.linkedin.com/in/br-codes-13a5b9257/)
 - 💻 LeetCode: [Solve Problems](https://leetcode.com/brc0d3s/)
