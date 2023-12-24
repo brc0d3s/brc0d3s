@@ -4,16 +4,14 @@
 I'm a Software Engineer passionate about crafting seamless web experiences with clean code. Specializing in Django, React.js, and AWS.
 
 ## Skills
-- **Languages:** Python, JavaScript
+- **Languages:** Python, JavaScript, Java, C++, C, C#
 
 ## Tech Stack
-- **Frameworks:** Django, React.js
-- **Databases:** Postgresql, MongoDB, Firebase
+- **Frameworks:** Django, React.js, Asp.NET
+- **Databases:** Postgresql, MongoDB
 - **Tools:** Docker
 - **Cloud:** AWS
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brc0d3s&layout=compact&theme=radical)
 
 ## Let's Connect
 - 📧 Email: [brc0d3s@gmail.com](mailto:brc0d3s@gmail.com)
