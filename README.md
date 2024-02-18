@@ -10,7 +10,7 @@ I'm a Software Engineer passionate about crafting seamless web experiences with 
 - 🌐 **Frameworks:** Django, React.js
 - 🛢️ **Databases:** Postgresql, MongoDB
 - 🛠️ **Tools:** Docker
-- ☁️ **Cloud:** AWS, Firebase, Vercel, freeasphosting.net
+- ☁️ **Cloud:** AWS, Firebase, Vercel
 
 ## Let's Connect
 - ✉️ Email: [brc0d3s@gmail.com](mailto:brc0d3s@gmail.com)
