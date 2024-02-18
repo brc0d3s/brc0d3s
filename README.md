@@ -4,10 +4,10 @@
 I'm a Software Engineer passionate about crafting seamless web experiences with clean code. Specializing in Django, React.js, and AWS.
 
 ## Skills
-- 🐍 **Languages:** Python, JavaScript, Java, C++, C, C#
+- 🐍 **Languages:** Python, JavaScript, Java, C++, C, C#, Visual Basic .NET 
 
 ## Tech Stack
-- 🌐 **Frameworks:** Django, React.js, Asp.NET
+- 🌐 **Frameworks:** Django, React.js
 - 🛢️ **Databases:** Postgresql, MongoDB
 - 🛠️ **Tools:** Docker
 - ☁️ **Cloud:** AWS, Firebase, Vercel, freeasphosting.net
