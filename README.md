@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Brian Omondi (brc0d3s)!
 
 ## About Me
-I'm a Software Engineer passionate about crafting seamless web experiences with clean code. Specializing in Django, React.js, and AWS.
+I'm a versatile Software Engineer, specializing in backend development and DevOps, dedicated to creating seamless software and system experiences with clean code.
 
 ## Skills
 - 🐍 **Languages:** Python, JavaScript, Java, C++, C, C#, Visual Basic .NET 
@@ -9,7 +9,7 @@ I'm a Software Engineer passionate about crafting seamless web experiences with 
 ## Tech Stack
 - 🌐 **Frameworks:** Django, React.js
 - 🛢️ **Databases:** Postgresql, MongoDB
-- 🛠️ **Tools:** Docker
+- 🛠️ **Tools:** Docker, Linux
 - ☁️ **Cloud:** AWS, Firebase, Vercel
 
 ## Let's Connect
