@@ -9,7 +9,7 @@ I'm a versatile Software Engineer, specializing in backend development and DevOp
 ## Tech Stack
 - 🌐 **Frameworks:** Django, React.js
 - 🛢️ **Databases:** Postgresql, MongoDB
-- 🛠️ **Tools:** Docker, Linux
+- 🛠️ **Tools:** Docker, Linux ...
 - ☁️ **Cloud:** AWS, Firebase, Vercel
 
 ## Let's Connect
