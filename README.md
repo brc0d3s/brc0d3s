@@ -4,7 +4,7 @@
 I'm a versatile Software Engineer, specializing in backend development and DevOps, dedicated to creating seamless software and system experiences with clean code.
 
 ## Skills
-- 🐍 **Languages:** Python, JavaScript, Java, C, Visual Basic .NET, JSP, Servlets
+- 🐍 **Languages:** Python, JavaScript, Java, C, Visual Basic .NET, PHP
 
 ## Tech Stack
 - 🌐 **Frameworks:** Django, React.js, ...
