@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Brian Omondi (brc0d3s)!
 
 ## About Me
-I am a versatile Software Engineer with expertise in Backend Development, Data Science, Data Engineering, DevOps, and System Administration. My dedication lies in crafting seamless software and system experiences that drive efficiency and innovation.
+I am a versatile Computer Science student specializing in Backend Development, Data Science, Data Engineering, DevOps, and System Administration. I am dedicated to creating seamless software and system experiences that drive efficiency and innovation.
 
 ## Skills
 - 🐍 **Languages:** Python, JavaScript, Java, C, Visual Basic .NET, PHP
