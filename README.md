@@ -4,7 +4,7 @@
 I am a versatile Computer Science professional specializing in Backend Development, Data Science, Data Engineering, DevOps, and System Administration. I am dedicated to creating seamless software and system experiences that drive efficiency and innovation.
 
 ## Skills
-- 🐍 **Languages:** Python, JavaScript, Java, C, Visual Basic .NET, PHP
+- 🐍 **Languages:** Python, JavaScript, Java, C, Visual Basic .NET
 
 ## Tech Stack
 - 🌐 **Frameworks:** Django, React.js, ...
