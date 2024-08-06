@@ -3,10 +3,7 @@
 ## About Me
 I am a Computer Science professional specializing in Backend Development, Data Science, and System Administration.
 
-## Skills
-- 🐍 **Languages:** Python, JavaScript, Java, C, Visual Basic .NET
-
-## Tech Stack
+## Tech Stack/ Skills
 - **System Administration**
   - Windows Server Administration
   - Linux Server Administration (Ubuntu)
