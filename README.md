@@ -1,16 +1,29 @@
 # 👋 Hey, I'm Brian Omondi (brc0d3s)!
 
 ## About Me
-I am a versatile Computer Science professional specializing in Backend Development, Data Science and System Administration. I am dedicated to creating seamless software and system experiences that drive efficiency and innovation.
+I am a Computer Science professional specializing in Backend Development, Data Science, and System Administration.
 
 ## Skills
 - 🐍 **Languages:** Python, JavaScript, Java, C, Visual Basic .NET
 
 ## Tech Stack
-- 🌐 **Frameworks:** Django, React.js, ...
-- 🛢️ **Databases:** Postgresql, MongoDB, ...
-- 🛠️ **Tools:** Docker, Linux, ...
-- ☁️ **Cloud:** AWS, Firebase, Vercel, ...
+- **System Administration**
+  - Windows Server Administration
+  - Linux Server Administration (Ubuntu)
+
+- **Data Science**
+  - **Languages:** Python
+  - **Libraries:** NumPy, pandas, scikit-learn
+  - **Data Visualization:** Matplotlib, Seaborn, Plotly
+
+- **Backend Engineering**
+  - **Languages:** Java, Python
+  - **Frameworks:** Java Servlets, Jakarta EE, Django
+  - **Databases:** PostgreSQL
+
+- **Cloud Services**
+  - AWS
+  - Firebase
 
 ## Let's Connect
 - ✉️ Email: [brc0d3s@gmail.com](mailto:brc0d3s@gmail.com)
