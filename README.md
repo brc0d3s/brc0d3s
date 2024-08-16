@@ -21,6 +21,7 @@ I am a Computer Science professional specializing in Backend Development, Data S
 - **Cloud Services**
   - AWS
   - Firebase
+  - Azure
 
 ## Let's Connect
 - ✉️ Email: [brc0d3s@gmail.com](mailto:brc0d3s@gmail.com)
