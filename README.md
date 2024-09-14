@@ -18,10 +18,6 @@ I am a Computer Science professional specializing in Backend Development, Data S
   - **Frameworks:** Java Servlets, Jakarta EE, Django
   - **Databases:** PostgreSQL
 
-- **Cloud Services**
-  - AWS
-  - Firebase
-  - Azure
 
 ## Let's Connect
 - ✉️ Email: [brc0d3s@gmail.com](mailto:brc0d3s@gmail.com)
