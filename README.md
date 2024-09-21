@@ -6,7 +6,6 @@ I am a Computer Science professional specializing in Backend Development, Data S
 ## Tech Stack/ Skills
 - **System Administration**
   - Windows Server Administration
-  - Linux Server Administration (Ubuntu)
 
 - **Data Science**
   - **Languages:** Python
