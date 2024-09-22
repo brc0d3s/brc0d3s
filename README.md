@@ -13,8 +13,8 @@ I am a Computer Science professional specializing in Backend Development, Data S
   - **Data Visualization:** Matplotlib, Seaborn, Plotly
 
 - **Backend Engineering**
-  - **Languages:** Java, Python
-  - **Frameworks:** Java Servlets, Jakarta EE, Django
+  - **Languages:** PHP, Python
+  - **Frameworks:** Django
   - **Databases:** PostgreSQL
 
 
