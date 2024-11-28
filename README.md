@@ -5,17 +5,17 @@ I am a Computer Science professional specializing in Backend Development, Data S
 
 ## Tech Stack/ Skills
 - **System Administration**
-  - Windows Server Administration
+  - Windows Server, Microsoft Azure
 
 - **Data Science**
-  - **Languages:** Python
-  - **Libraries:** NumPy, pandas, scikit-learn
-  - **Data Visualization:** Matplotlib, Seaborn, Plotly
+  - **Languages:** Python, R, Scala
+  - **Tools:** Apache Spark,Hadoop
+  - **Data Visualization:** Microsoft Power BI
 
 - **Backend Engineering**
   - **Languages:** PHP, Python
   - **Frameworks:** Django
-  - **Databases:** PostgreSQL
+  - **Databases:** PostgreSQL, MySQL
 
 
 ## Let's Connect
