@@ -1,14 +1,14 @@
 # 👋 Hey, I'm Brian Omondi (brc0d3s)!
 
 ## About Me
-I am a Computer Science professional specializing in Backend Development, Data Science, and System Administration.
+I am a Computer Science professional specializing in  Data Science, System Administration and Backend Development.
 
 ## Tech Stack/ Skills
 - **System Administration**
   - Windows Server, Microsoft Azure
 
 - **Data Science**
-  - **Languages:** Python, R, Scala
+  - **Languages:** Python
   - **Tools:** Apache Spark,Hadoop
   - **Data Visualization:** Microsoft Power BI
 
