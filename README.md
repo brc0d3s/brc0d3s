@@ -14,7 +14,7 @@ I am a Computer Science professional specializing in  Data Science, System Admin
 
 - **Backend Engineering**
   - **Languages:** PHP, Python
-  - **Frameworks:** Django
+  - **Frameworks:** Django, FastAPI
   - **Databases:** PostgreSQL, MySQL
 
 
