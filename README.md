@@ -9,7 +9,7 @@ I am a Computer Science professional specializing in  Data Science, System Admin
 
 - **Data Science**
   - **Languages:** Python
-  - **Tools:** Apache Spark,Hadoop
+  - **Tools:** Apache Spark,PyTorch
   - **Data Visualization:** Microsoft Power BI
 
 - **Backend Engineering**
